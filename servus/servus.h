@@ -20,9 +20,9 @@
 #ifndef SERVUS_SERVUS_H
 #define SERVUS_SERVUS_H
 
-#include <servus/api.h>
-#include <servus/result.h> // nested base class
-#include <servus/types.h>
+#include "servus/api.h"
+#include "servus/result.h" // nested base class
+#include "servus/types.h"
 
 #include <map>
 #include <memory>

@@ -19,8 +19,8 @@
 
 #include "itemModel.h"
 
-#include <servus/listener.h>
-#include <servus/servus.h>
+#include "servus/listener.h"
+#include "servus/servus.h"
 
 #include <QTimer>
 

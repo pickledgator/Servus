@@ -21,8 +21,8 @@
 #ifndef SERVUS_UINT128_H
 #define SERVUS_UINT128_H
 
-#include <servus/api.h>
-#include <servus/types.h>
+#include "servus/api.h"
+#include "servus/types.h"
 
 #include <sstream>
 #ifdef _MSC_VER

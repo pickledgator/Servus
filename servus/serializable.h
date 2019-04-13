@@ -20,8 +20,8 @@
 #ifndef SERVUS_SERIALIZABLE_H
 #define SERVUS_SERIALIZABLE_H
 
-#include <servus/api.h>
-#include <servus/types.h>
+#include "servus/api.h"
+#include "servus/types.h"
 
 #include <functional> // function
 #include <memory>     // shared_ptr

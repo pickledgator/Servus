@@ -20,8 +20,8 @@
 #ifndef SERVUS_URI_H
 #define SERVUS_URI_H
 
-#include <servus/api.h>
-#include <servus/types.h>
+#include "servus/api.h"
+#include "servus/types.h"
 
 #include <map>
 #include <sstream>
